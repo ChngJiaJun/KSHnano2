@@ -4329,9 +4329,11 @@ textarea:required {
   color: #fff;
 }
 .footer-social-info a {
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
+  width: 40px;
+  border-radius: 10px;
+  margin: 0 6px;
+  height: 40px;
+  line-height: 45px;
   text-align: center;
   display: inline-block;
   text-align: center;
@@ -4339,7 +4341,7 @@ textarea:required {
 }
 
 .footer-social-info a i {
-  font-size: 14px;
+  font-size: 20px;
   color: #fff;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
